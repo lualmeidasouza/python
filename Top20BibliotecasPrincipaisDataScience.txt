@@ -1,0 +1,84 @@
+A Linguagem Python continua a assumir posições de liderança na solução de tarefas e desafios em Data Science. A seleção das bibliotecas está separada por categorias e a maioria delas já são estudadas no curso gratuito Python Fundamentos Para Análise de Dados na DSA Academy:
+https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
+
+BIBLIOTECAS ESTATÍSTICAS
+
+1) NumPy
+Tradicionalmente, começamos nossa lista com as bibliotecas para aplicativos científicos e o NumPy é um dos principais pacotes nessa área. Ele é destinado ao PROCESSAMENTO DE GDES MATRIZES E MATRIZES MULTIDIMENSIONAIS, e uma extensa coleção de funções matemáticas de alto nível e método implementados possibilitam a execução de várias operações com esses objetos.
+
+2) SciPy
+Outra biblioteca central para computação científica é o SciPy. Ele é baseado no NumPy e, portanto, estende seus recursos. A principal estrutura de ados SciPy é novamente uma matriz multidimensional, implementada pelo NumPy. O pacote contém ferrmentas que ajudam a resolver álgebra linear, teoria da PROBABILIDADE cálculo integral e muitas outras tarefas.
+
+3) Pandas
+Pandas é uma biblioteca Python que fornece estruturas de dados de alto nível e uma grande variedade de ferramentas para análise. A grande característica deste pacote é a capacidade de traduzir operações bastante complexas com dados em um ou dois comandos. O Pandas contêm muitos metodos internos para agrupar, filtrar e combinar dados, bem como a funcionalidade de séries temporais. Tudo isso é seguido por indicadores de velocidade impressionantes. 
+
+4) StatsModels
+StatsModels é um módulo Python que oferece muitas oportunidades para análise de dados estatísticos, como a estimação de modelos estatísticos, a realização de testes estatísticos, etc. Com este pacote, você pode implementar muitos de aprendizado de máquina e explorar diferentes possibilidades de plotagem.
+
+
+BIBLIOTECAS DE VISUALIZAÇÃO
+
+5)Matplotlib 
+O Matplotlib é uma biblioteca de baixo nível para criar diagramas e gráficos bidimensionais. Como este pacote, você pode construir gráficos diversos, desde histogramas e gráficos de dispersão a gráficos de coordenadas não cartesianas. Além disso, muitas bibliotecas de plotagem populares são projetadas para trabalhar em conjunto com o matplotlib.
+
+6)Seaborn
+O Seaborn é essencialmente uma API de alto nível baseada na biblioteca matplotlib. Ele contém configurações padrão mais adequadas para o processamento de gráficos. Além disso, há uma rica galeria de visualizações, incluindo alguns tipos complexos, como séries temporais, diagramas conjuntos e diagramas de violino.
+
+7)Plotly
+Plotly é uma biblioteca popular que permite construir facilmente gráficos sofisticados. O pacote é adaptado para trabalhar em apalicativos da web interativos. Entre suas visualizaçãoes notáveis estão gráficos de contorno, gráficos ternários e gráficos 3D.
+
+8)Bokeh
+A biblioteca Bokeh cria visualizações interativas e escalonáveis em um navegador usando widgets JavaScript. A biblioteca oferece uma coleção versátil de gráficos, possibilidades de estilo, habilidades de interação na forma de vincular gráficos, adicionar widgets e definir retornos de chamada, além de muitos outros recursos úteis.
+
+9)Pydot
+Pydot é uma biblioteca para gerar grafos complexos orientados e não orientados. É uma interface para o Graphviz, escrita em Python puro. Com a sua ajuda, é possível mostrar a estrutura dos grafos, que muitas vezes são necessários ao construir algoritmos baseados em redes neurais e árvores de decisão.
+
+BIBLIOTECAS DE MACHINE LEARNING
+
+10)Scikit-learn
+Este módulo Python baseado no NumPy e SciPy é uma das melhores bibliotecas para trabalhar com dados. Ele fornece algoritmos para muitas tarefas padrão de aprendizado de máquina e mineração de dados, como clustering, regressão, classificação, redução de dimensionalidade e seleção de modelo.
+
+11) XGBoost / LightGBM / CatBoost
+Gradient Boosting é um dos algoritmos de aprendizadode máquina mais populares, que consiste em construir um conjunto de modelos elementares sucessivamente refinados, ou seja, árvores de decisão. Portanto, existem bibliotecas especiais projetadas para implementação rápida e convenente desse método e achamos que XGBoost, LightGBM e CatBoost merecem atenção especial. Todos eles são concorrentes qe resolvem um problema comum e são usados quase da mesma maneira. Essas bibliotecas fornecem implementações altamente otimizadas, escaláveis e rápidas do Gradient Boosting, o que as torna extremamente populares entre os Cientistas de Dados e os competidores do Kaggle, já que muitos concursos foram vencidos com a ajuda desses algoritmos.
+
+12) Eli5
+Frequentemente, os resultados das previsões de modelos de aprendizado de máquina não são totalmenteclaros, e esse é o desafio que a biblioteca Eli5 ajuda a lidar. É um pacote para visualização e depuração de modelos de aprendizado de máquina e acompanhamento do trabalho de um algoritmo passo a passo. Ele fornece suporte para as bibliotecas Scikit-learn, XGBoost, LightGBM, Lightning e Skleanr-crfsuite e executa as diferentes tarefas para cada uma delas.
+
+BIBLIOTECAS DE DEEP LEARNING
+
+13) TensorFlow
+O TensorFlow é um framework popular para aprendizagem profunda, desenvolvido no Google Brain. Ele fornece habilidades para trabalhar com redes neurais artificiais com vários conjuntos de dados. Entre as aplicaçõe mais populares do TensorFlow estão a identificação de objetos, o reconhecimento de fala e muito mais. Há também diferentes "ajudantes" que rodam sobre o TensorFlow regular, como tflearn, tfslim, skflow, etc.
+
+14)PyTorch
+O PyTorch é uma estrutura que permite executar cálculos de tensores com aceleração de GPU, criar grafos computacionais dinâmicos e calcular automaticamente gradientes. Além disso, o PyTorch oferece uma API rica para resolver aplicativos relacionados a redes neurais.
+A biblioteca é baseada no Torch, que é uma biblioteca de aprendizagem profunda de código aberto implementada em C com um wrapper em Lua. A API do Python foi lançada em 2017 e, a partir daí, o framework está ganhando popularidade e atraindo um número crescente de Cientistas de Dados.
+
+15) Keras
+Keras é uma biblioteca de alto nível para trabalhar com redes neurais, rodando sobre o TensorFlow, Theano, e agora, como resultado dos novos lançamentos, também é possível usar o CNTK e o MxNet como backends. Ele simplifica muitas tarefas específicas e reduz muito a quantidade de código. No entanto, pode não ser adequedo ara algumas coisas complicadas.
+
+BIBLIOTECA DISTRIBUTED DEEP LEARNING
+
+16) Dist-keras / elephas / spark-deep-learning
+Problemas de aprendizagem profunda estão se tornando cruciais hoje em dia, já que cada vez mais casos de uso exigem esforço e tempo consideráveis. No entanto, o processamento de uma quantidade tão grande de dados é muito mais fácil com o uso de sistemas de computação distribuída, como o Apache Spark, que expande novamente as possibilidades de aprendizagem profunda. Portanto, dist-keras, elephas e spark-deep-learning estão ganhando popularidade e se desenvolvendo rapidamente, e é muito difícil destacas uma das bibliotecas, pois todas elas são projetadas para resolver uma tarefa comum. Esses pacotes permitem que você treine redes neurais baseadas na biblioteca Keras diretamente com a ajuda do Apache Spark. O aprendizado profundo do Spark também fornece ferramentas para criar um pipeline com redes neurais Python.
+
+BIBLIOTECA DE PROCESSAMENTO DE LINGUAGEM NATURAL
+
+17)NLTK
+O NLTK é um conjunto de bibliotecas, uma plataforma completa para Processamento de Linguagem Natural. Com a ajuda do NLTK, você pode processar e analisar texto de várias maneiras, aplicar tokenize e tag, extrair informações, etc. O NLTK também é usado para prototipar e construir sistemas de pesquisa.
+
+18) SpaCy
+O SpaCy é uma biblioteca de Processamento de Linguagem Natural com excelentes exemplos, documentação da API e aplicativos de demonstração. A biblioteca é escrita na linguagem Cython, que é a extensão C do Python. Suporta quase 30 idiomas, fornece fácil integração de aprendizagem profunda e promete robustez e alta precisão. Outra grande característica do SpaCy é uma arquitetura projetada para todo o processamento de documentos, sem quebrar o documentos em frases.
+
+19)Gensim
+O Gensim é uma biblioteca Python para análise semântica robusta, modelagem de tópico e modelagem de espaço vetorial, e é construído sobre o NumPy e SciPy. Ele fornece uma implementação de algoritmos populares de PLN, como o Word2vec. Embora o Gensim tenha sua própria implementaão de models.wrappersfasttext, a biblioteca fasttext pode ser usada para uma aprendizagem eficiente de representações de palavras.
+
+BIBLIOTECA DE DATA SCRAPING
+
+20) Scrapy
+O Scrapy é uma biblioteca usada para criar bots spiders que varrem páginas web e coletam dados estruturados. Além disso, o Scrapy pode extrair dados de API. A biblioteca é muito útil devido à sua extensibilidade e portabilidade.
+
+CONCLUSÃO
+Data Science segue evoluindo e precisa cada vez mais de profissionais capacitados para otimizar processos e melhorar o desempenho de empresas como um todo. 
+
+Fonte: http://datascienceacademy.com.br/blog/top-20-bibliotecas-python-para-data-science/
+
