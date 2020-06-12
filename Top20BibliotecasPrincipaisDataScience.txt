@@ -1,84 +1,91 @@
-A Linguagem Python continua a assumir posiÁıes de lideranÁa na soluÁ„o de tarefas e desafios em Data Science. A seleÁ„o das bibliotecas est· separada por categorias e a maioria delas j· s„o estudadas no curso gratuito Python Fundamentos Para An·lise de Dados na DSA Academy:
+A Linguagem Python continua a assumir posi√ß√µes de lideran√ßa na solu√ß√£o de tarefas e desafios em Data Science. A sele√ß√£o das bibliotecas est√° separada por categorias e a maioria delas j√° s√£o estudadas no curso gratuito Python Fundamentos Para An√°lise de Dados na DSA Academy:
 https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
 
-BIBLIOTECAS ESTATÕSTICAS
+BIBLIOTECAS ESTAT√çSTICAS
 
 1) NumPy
-Tradicionalmente, comeÁamos nossa lista com as bibliotecas para aplicativos cientÌficos e o NumPy È um dos principais pacotes nessa ·rea. Ele È destinado ao PROCESSAMENTO DE GDES MATRIZES E MATRIZES MULTIDIMENSIONAIS, e uma extensa coleÁ„o de funÁıes matem·ticas de alto nÌvel e mÈtodo implementados possibilitam a execuÁ„o de v·rias operaÁıes com esses objetos.
+Tradicionalmente, come√ßamos nossa lista com as bibliotecas para aplicativos cient√≠ficos e o NumPy √© um dos principais pacotes nessa √°rea. Ele √© destinado ao PROCESSAMENTO DE GDES MATRIZES E MATRIZES MULTIDIMENSIONAIS, e uma extensa cole√ß√£o de fun√ß√µes matem√°ticas de alto n√≠vel e m√©todo implementados possibilitam a execu√ß√£o de v√°rias opera√ß√µes com esses objetos.
 
 2) SciPy
-Outra biblioteca central para computaÁ„o cientÌfica È o SciPy. Ele È baseado no NumPy e, portanto, estende seus recursos. A principal estrutura de ados SciPy È novamente uma matriz multidimensional, implementada pelo NumPy. O pacote contÈm ferrmentas que ajudam a resolver ·lgebra linear, teoria da PROBABILIDADE c·lculo integral e muitas outras tarefas.
+Outra biblioteca central para computa√ß√£o cient√≠fica √© o SciPy. Ele √© baseado no NumPy e, portanto, estende seus recursos. A principal estrutura de ados SciPy √© novamente uma matriz multidimensional, implementada pelo NumPy. O pacote cont√©m ferrmentas que ajudam a resolver √°lgebra linear, teoria da PROBABILIDADE c√°lculo integral e muitas outras tarefas.
 
 3) Pandas
-Pandas È uma biblioteca Python que fornece estruturas de dados de alto nÌvel e uma grande variedade de ferramentas para an·lise. A grande caracterÌstica deste pacote È a capacidade de traduzir operaÁıes bastante complexas com dados em um ou dois comandos. O Pandas contÍm muitos metodos internos para agrupar, filtrar e combinar dados, bem como a funcionalidade de sÈries temporais. Tudo isso È seguido por indicadores de velocidade impressionantes. 
+Pandas √© uma biblioteca Python que fornece estruturas de dados de alto n√≠vel e uma grande variedade de ferramentas para an√°lise. A grande caracter√≠stica deste pacote √© a capacidade de traduzir opera√ß√µes bastante complexas com dados em um ou dois comandos. O Pandas cont√™m muitos metodos internos para agrupar, filtrar e combinar dados, bem como a funcionalidade de s√©ries temporais. Tudo isso √© seguido por indicadores de velocidade impressionantes. 
 
 4) StatsModels
-StatsModels È um mÛdulo Python que oferece muitas oportunidades para an·lise de dados estatÌsticos, como a estimaÁ„o de modelos estatÌsticos, a realizaÁ„o de testes estatÌsticos, etc. Com este pacote, vocÍ pode implementar muitos de aprendizado de m·quina e explorar diferentes possibilidades de plotagem.
+StatsModels √© um m√≥dulo Python que oferece muitas oportunidades para an√°lise de dados estat√≠sticos, como a estima√ß√£o de modelos estat√≠sticos, a realiza√ß√£o de testes estat√≠sticos, etc. Com este pacote, voc√™ pode implementar muitos de aprendizado de m√°quina e explorar diferentes possibilidades de plotagem.
 
 
-BIBLIOTECAS DE VISUALIZA«√O
+BIBLIOTECAS DE VISUALIZA√á√ÉO
 
 5)Matplotlib 
-O Matplotlib È uma biblioteca de baixo nÌvel para criar diagramas e gr·ficos bidimensionais. Como este pacote, vocÍ pode construir gr·ficos diversos, desde histogramas e gr·ficos de dispers„o a gr·ficos de coordenadas n„o cartesianas. AlÈm disso, muitas bibliotecas de plotagem populares s„o projetadas para trabalhar em conjunto com o matplotlib.
+O Matplotlib √© uma biblioteca de baixo n√≠vel para criar diagramas e gr√°ficos bidimensionais. Como este pacote, voc√™ pode construir gr√°ficos diversos, desde histogramas e gr√°ficos de dispers√£o a gr√°ficos de coordenadas n√£o cartesianas. Al√©m disso, muitas bibliotecas de plotagem populares s√£o projetadas para trabalhar em conjunto com o matplotlib.
 
 6)Seaborn
-O Seaborn È essencialmente uma API de alto nÌvel baseada na biblioteca matplotlib. Ele contÈm configuraÁıes padr„o mais adequadas para o processamento de gr·ficos. AlÈm disso, h· uma rica galeria de visualizaÁıes, incluindo alguns tipos complexos, como sÈries temporais, diagramas conjuntos e diagramas de violino.
+O Seaborn √© essencialmente uma API de alto n√≠vel baseada na biblioteca matplotlib. Ele cont√©m configura√ß√µes padr√£o mais adequadas para o processamento de gr√°ficos. Al√©m disso, h√° uma rica galeria de visualiza√ß√µes, incluindo alguns tipos complexos, como s√©ries temporais, diagramas conjuntos e diagramas de violino.
 
 7)Plotly
-Plotly È uma biblioteca popular que permite construir facilmente gr·ficos sofisticados. O pacote È adaptado para trabalhar em apalicativos da web interativos. Entre suas visualizaÁ„oes not·veis est„o gr·ficos de contorno, gr·ficos tern·rios e gr·ficos 3D.
+Plotly √© uma biblioteca popular que permite construir facilmente gr√°ficos sofisticados. O pacote √© adaptado para trabalhar em apalicativos da web interativos. Entre suas visualiza√ß√£oes not√°veis est√£o gr√°ficos de contorno, gr√°ficos tern√°rios e gr√°ficos 3D.
 
 8)Bokeh
-A biblioteca Bokeh cria visualizaÁıes interativas e escalon·veis em um navegador usando widgets JavaScript. A biblioteca oferece uma coleÁ„o vers·til de gr·ficos, possibilidades de estilo, habilidades de interaÁ„o na forma de vincular gr·ficos, adicionar widgets e definir retornos de chamada, alÈm de muitos outros recursos ˙teis.
+A biblioteca Bokeh cria visualiza√ß√µes interativas e escalon√°veis em um navegador usando widgets JavaScript. A biblioteca oferece uma cole√ß√£o vers√°til de gr√°ficos, possibilidades de estilo, habilidades de intera√ß√£o na forma de vincular gr√°ficos, adicionar widgets e definir retornos de chamada, al√©m de muitos outros recursos √∫teis.
 
 9)Pydot
-Pydot È uma biblioteca para gerar grafos complexos orientados e n„o orientados. … uma interface para o Graphviz, escrita em Python puro. Com a sua ajuda, È possÌvel mostrar a estrutura dos grafos, que muitas vezes s„o necess·rios ao construir algoritmos baseados em redes neurais e ·rvores de decis„o.
+Pydot √© uma biblioteca para gerar grafos complexos orientados e n√£o orientados. √â uma interface para o Graphviz, escrita em Python puro. Com a sua ajuda, √© poss√≠vel mostrar a estrutura dos grafos, que muitas vezes s√£o necess√°rios ao construir algoritmos baseados em redes neurais e √°rvores de decis√£o.
 
 BIBLIOTECAS DE MACHINE LEARNING
 
 10)Scikit-learn
-Este mÛdulo Python baseado no NumPy e SciPy È uma das melhores bibliotecas para trabalhar com dados. Ele fornece algoritmos para muitas tarefas padr„o de aprendizado de m·quina e mineraÁ„o de dados, como clustering, regress„o, classificaÁ„o, reduÁ„o de dimensionalidade e seleÁ„o de modelo.
+Este m√≥dulo Python baseado no NumPy e SciPy √© uma das melhores bibliotecas para trabalhar com dados. Ele fornece algoritmos para muitas tarefas padr√£o de aprendizado de m√°quina e minera√ß√£o de dados, como clustering, regress√£o, classifica√ß√£o, redu√ß√£o de dimensionalidade e sele√ß√£o de modelo.
 
 11) XGBoost / LightGBM / CatBoost
-Gradient Boosting È um dos algoritmos de aprendizadode m·quina mais populares, que consiste em construir um conjunto de modelos elementares sucessivamente refinados, ou seja, ·rvores de decis„o. Portanto, existem bibliotecas especiais projetadas para implementaÁ„o r·pida e convenente desse mÈtodo e achamos que XGBoost, LightGBM e CatBoost merecem atenÁ„o especial. Todos eles s„o concorrentes qe resolvem um problema comum e s„o usados quase da mesma maneira. Essas bibliotecas fornecem implementaÁıes altamente otimizadas, escal·veis e r·pidas do Gradient Boosting, o que as torna extremamente populares entre os Cientistas de Dados e os competidores do Kaggle, j· que muitos concursos foram vencidos com a ajuda desses algoritmos.
+Gradient Boosting √© um dos algoritmos de aprendizadode m√°quina mais populares, que consiste em construir um conjunto de modelos elementares sucessivamente refinados, ou seja, √°rvores de decis√£o. Portanto, existem bibliotecas especiais projetadas para implementa√ß√£o r√°pida e convenente desse m√©todo e achamos que XGBoost, LightGBM e CatBoost merecem aten√ß√£o especial. Todos eles s√£o concorrentes qe resolvem um problema comum e s√£o usados quase da mesma maneira. Essas bibliotecas fornecem implementa√ß√µes altamente otimizadas, escal√°veis e r√°pidas do Gradient Boosting, o que as torna extremamente populares entre os Cientistas de Dados e os competidores do Kaggle, j√° que muitos concursos foram vencidos com a ajuda desses algoritmos.
 
 12) Eli5
-Frequentemente, os resultados das previsıes de modelos de aprendizado de m·quina n„o s„o totalmenteclaros, e esse È o desafio que a biblioteca Eli5 ajuda a lidar. … um pacote para visualizaÁ„o e depuraÁ„o de modelos de aprendizado de m·quina e acompanhamento do trabalho de um algoritmo passo a passo. Ele fornece suporte para as bibliotecas Scikit-learn, XGBoost, LightGBM, Lightning e Skleanr-crfsuite e executa as diferentes tarefas para cada uma delas.
+Frequentemente, os resultados das previs√µes de modelos de aprendizado de m√°quina n√£o s√£o totalmenteclaros, e esse √© o desafio que a biblioteca Eli5 ajuda a lidar. √â um pacote para visualiza√ß√£o e depura√ß√£o de modelos de aprendizado de m√°quina e acompanhamento do trabalho de um algoritmo passo a passo. Ele fornece suporte para as bibliotecas Scikit-learn, XGBoost, LightGBM, Lightning e Skleanr-crfsuite e executa as diferentes tarefas para cada uma delas.
 
 BIBLIOTECAS DE DEEP LEARNING
 
 13) TensorFlow
-O TensorFlow È um framework popular para aprendizagem profunda, desenvolvido no Google Brain. Ele fornece habilidades para trabalhar com redes neurais artificiais com v·rios conjuntos de dados. Entre as aplicaÁıe mais populares do TensorFlow est„o a identificaÁ„o de objetos, o reconhecimento de fala e muito mais. H· tambÈm diferentes "ajudantes" que rodam sobre o TensorFlow regular, como tflearn, tfslim, skflow, etc.
+O TensorFlow √© um framework popular para aprendizagem profunda, desenvolvido no Google Brain. Ele fornece habilidades para trabalhar com redes neurais artificiais com v√°rios conjuntos de dados. Entre as aplica√ß√µe mais populares do TensorFlow est√£o a identifica√ß√£o de objetos, o reconhecimento de fala e muito mais. H√° tamb√©m diferentes "ajudantes" que rodam sobre o TensorFlow regular, como tflearn, tfslim, skflow, etc.
 
 14)PyTorch
-O PyTorch È uma estrutura que permite executar c·lculos de tensores com aceleraÁ„o de GPU, criar grafos computacionais din‚micos e calcular automaticamente gradientes. AlÈm disso, o PyTorch oferece uma API rica para resolver aplicativos relacionados a redes neurais.
-A biblioteca È baseada no Torch, que È uma biblioteca de aprendizagem profunda de cÛdigo aberto implementada em C com um wrapper em Lua. A API do Python foi lanÁada em 2017 e, a partir daÌ, o framework est· ganhando popularidade e atraindo um n˙mero crescente de Cientistas de Dados.
+O PyTorch √© uma estrutura que permite executar c√°lculos de tensores com acelera√ß√£o de GPU, criar grafos computacionais din√¢micos e calcular automaticamente gradientes. Al√©m disso, o PyTorch oferece uma API rica para resolver aplicativos relacionados a redes neurais.
+A biblioteca √© baseada no Torch, que √© uma biblioteca de aprendizagem profunda de c√≥digo aberto implementada em C com um wrapper em Lua. A API do Python foi lan√ßada em 2017 e, a partir da√≠, o framework est√° ganhando popularidade e atraindo um n√∫mero crescente de Cientistas de Dados.
 
 15) Keras
-Keras È uma biblioteca de alto nÌvel para trabalhar com redes neurais, rodando sobre o TensorFlow, Theano, e agora, como resultado dos novos lanÁamentos, tambÈm È possÌvel usar o CNTK e o MxNet como backends. Ele simplifica muitas tarefas especÌficas e reduz muito a quantidade de cÛdigo. No entanto, pode n„o ser adequedo ara algumas coisas complicadas.
+Keras √© uma biblioteca de alto n√≠vel para trabalhar com redes neurais, rodando sobre o TensorFlow, Theano, e agora, como resultado dos novos lan√ßamentos, tamb√©m √© poss√≠vel usar o CNTK e o MxNet como backends. Ele simplifica muitas tarefas espec√≠ficas e reduz muito a quantidade de c√≥digo. No entanto, pode n√£o ser adequedo ara algumas coisas complicadas.
 
 BIBLIOTECA DISTRIBUTED DEEP LEARNING
 
 16) Dist-keras / elephas / spark-deep-learning
-Problemas de aprendizagem profunda est„o se tornando cruciais hoje em dia, j· que cada vez mais casos de uso exigem esforÁo e tempo consider·veis. No entanto, o processamento de uma quantidade t„o grande de dados È muito mais f·cil com o uso de sistemas de computaÁ„o distribuÌda, como o Apache Spark, que expande novamente as possibilidades de aprendizagem profunda. Portanto, dist-keras, elephas e spark-deep-learning est„o ganhando popularidade e se desenvolvendo rapidamente, e È muito difÌcil destacas uma das bibliotecas, pois todas elas s„o projetadas para resolver uma tarefa comum. Esses pacotes permitem que vocÍ treine redes neurais baseadas na biblioteca Keras diretamente com a ajuda do Apache Spark. O aprendizado profundo do Spark tambÈm fornece ferramentas para criar um pipeline com redes neurais Python.
+Problemas de aprendizagem profunda est√£o se tornando cruciais hoje em dia, j√° que cada vez mais casos de uso exigem esfor√ßo e tempo consider√°veis. No entanto, o processamento de uma quantidade t√£o grande de dados √© muito mais f√°cil com o uso de sistemas de computa√ß√£o distribu√≠da, como o Apache Spark, que expande novamente as possibilidades de aprendizagem profunda. Portanto, dist-keras, elephas e spark-deep-learning est√£o ganhando popularidade e se desenvolvendo rapidamente, e √© muito dif√≠cil destacas uma das bibliotecas, pois todas elas s√£o projetadas para resolver uma tarefa comum. Esses pacotes permitem que voc√™ treine redes neurais baseadas na biblioteca Keras diretamente com a ajuda do Apache Spark. O aprendizado profundo do Spark tamb√©m fornece ferramentas para criar um pipeline com redes neurais Python.
 
 BIBLIOTECA DE PROCESSAMENTO DE LINGUAGEM NATURAL
 
 17)NLTK
-O NLTK È um conjunto de bibliotecas, uma plataforma completa para Processamento de Linguagem Natural. Com a ajuda do NLTK, vocÍ pode processar e analisar texto de v·rias maneiras, aplicar tokenize e tag, extrair informaÁıes, etc. O NLTK tambÈm È usado para prototipar e construir sistemas de pesquisa.
+O NLTK √© um conjunto de bibliotecas, uma plataforma completa para Processamento de Linguagem Natural. Com a ajuda do NLTK, voc√™ pode processar e analisar texto de v√°rias maneiras, aplicar tokenize e tag, extrair informa√ß√µes, etc. O NLTK tamb√©m √© usado para prototipar e construir sistemas de pesquisa.
 
 18) SpaCy
-O SpaCy È uma biblioteca de Processamento de Linguagem Natural com excelentes exemplos, documentaÁ„o da API e aplicativos de demonstraÁ„o. A biblioteca È escrita na linguagem Cython, que È a extens„o C do Python. Suporta quase 30 idiomas, fornece f·cil integraÁ„o de aprendizagem profunda e promete robustez e alta precis„o. Outra grande caracterÌstica do SpaCy È uma arquitetura projetada para todo o processamento de documentos, sem quebrar o documentos em frases.
+O SpaCy √© uma biblioteca de Processamento de Linguagem Natural com excelentes exemplos, documenta√ß√£o da API e aplicativos de demonstra√ß√£o. A biblioteca √© escrita na linguagem Cython, que √© a extens√£o C do Python. Suporta quase 30 idiomas, fornece f√°cil integra√ß√£o de aprendizagem profunda e promete robustez e alta precis√£o. Outra grande caracter√≠stica do SpaCy √© uma arquitetura projetada para todo o processamento de documentos, sem quebrar o documentos em frases.
 
 19)Gensim
-O Gensim È uma biblioteca Python para an·lise sem‚ntica robusta, modelagem de tÛpico e modelagem de espaÁo vetorial, e È construÌdo sobre o NumPy e SciPy. Ele fornece uma implementaÁ„o de algoritmos populares de PLN, como o Word2vec. Embora o Gensim tenha sua prÛpria implementa„o de models.wrappersfasttext, a biblioteca fasttext pode ser usada para uma aprendizagem eficiente de representaÁıes de palavras.
+O Gensim √© uma biblioteca Python para an√°lise sem√¢ntica robusta, modelagem de t√≥pico e modelagem de espa√ßo vetorial, e √© constru√≠do sobre o NumPy e SciPy. Ele fornece uma implementa√ß√£o de algoritmos populares de PLN, como o Word2vec. Embora o Gensim tenha sua pr√≥pria implementa√£o de models.wrappersfasttext, a biblioteca fasttext pode ser usada para uma aprendizagem eficiente de representa√ß√µes de palavras.
 
 BIBLIOTECA DE DATA SCRAPING
 
 20) Scrapy
-O Scrapy È uma biblioteca usada para criar bots spiders que varrem p·ginas web e coletam dados estruturados. AlÈm disso, o Scrapy pode extrair dados de API. A biblioteca È muito ˙til devido ‡ sua extensibilidade e portabilidade.
+O Scrapy √© uma biblioteca usada para criar bots spiders que varrem p√°ginas web e coletam dados estruturados. Al√©m disso, o Scrapy pode extrair dados de API. A biblioteca √© muito √∫til devido √† sua extensibilidade e portabilidade.
 
-CONCLUS√O
+CONCLUS√ÉO
 Data Science segue evoluindo e precisa cada vez mais de profissionais capacitados para otimizar processos e melhorar o desempenho de empresas como um todo. 
 
 Fonte: http://datascienceacademy.com.br/blog/top-20-bibliotecas-python-para-data-science/
 
+Vocabul√°rio:
+
+Widget: √© um componente que pode ser utilizado em computadores, celulares, tablets e outros aparelhos para simplificar o acesso a um outro programa ou sistema. Eles geralmente cont√™m janelas, bot√µes, √≠cones, menus, barras de rolagem e outras funcionalidades. Esse componente com interface gr√°fica (GUI) permite adicionar ao sistema operacional uma tarefa espec√≠fica, como widgets de previs√£o do tempo, rel√≥gio, atualiza√ß√£o de redes sociais, emails, etc.
+
+Wrapper: (em portugu√™s empacotador), √© um termo em ingl√™s que geralmente se refere a um tipo de embalagem, tal como uma folha plana feita de papel celofane ou pl√°stico para envolver um objeto. Wrapper: Em sistemas operacionais significa c√≥digo que envolve a chamada de sistema para fazer a verifica√ß√£o a chamada Jaqueta ( jacket ) ou Wrapper.
+
+Data Scraping: (do ingl√™s, raspagem de dados) √© uma t√©cnica computacional na qual um programa extrai dados de sa√≠da leg√≠vel somente para humanos, proveniente de um servi√ßo ou aplicativo. Os dados extra√≠dos geralmente s√£o minerados e estruturados em um formato padr√£o como CSV , XML ou JSON .
