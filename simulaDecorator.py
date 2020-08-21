@@ -2,7 +2,7 @@
 """
 Created on Thu Aug 20 10:11:46 2020
 
-@author: 89292693
+@author: Luciana
 """
 
 def meu_decorador(func):
