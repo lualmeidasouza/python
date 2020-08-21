@@ -2,7 +2,7 @@
 """
 Created on Thu Aug 20 09:46:04 2020
 
-@author: 89292693
+@author: Luciana
 """
 
 #Sem a sintaxe da pizza @ do decorator
